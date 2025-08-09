@@ -60,7 +60,7 @@ const Footer = () => {
               </a>
             </div>
 
-            <div className="bg-white/5 backdrop-blur-sm rounded-3xl p-8 border border-white/10">
+            {/* <div className="bg-white/5 backdrop-blur-sm rounded-3xl p-8 border border-white/10">
               <h4 className="text-xl font-bold mb-6">
                 Subscribe to Our Newsletter
               </h4>
@@ -78,7 +78,7 @@ const Footer = () => {
                   Subscribe
                 </button>
               </div>
-            </div>
+            </div> */}
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8">
