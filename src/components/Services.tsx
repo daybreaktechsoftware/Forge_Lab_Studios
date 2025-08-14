@@ -189,7 +189,7 @@ const Services = () => {
             </p>
             <a
               href="#form"
-              className="block w-full bg-white text-light-green hover:bg-gray-50 px-8 py-4 rounded-2xl font-semibold transition-all duration-300 transform hover:scale-105 shadow-lg"
+              className="block w-full lg:inline-block lg:w-auto bg-white text-light-green hover:bg-gray-50 px-8 py-4 rounded-2xl font-semibold transition-all duration-300 transform hover:scale-105 shadow-lg"
             >
               Schedule a Consultation
             </a>
