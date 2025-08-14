@@ -152,7 +152,7 @@ const Contact = () => {
             </div>
           </div>
 
-          <div className="lg:col-span-3 animate-slide-in-right">
+          <div id="form" className="lg:col-span-3 animate-slide-in-right">
             {/* Airtable Form Embed */}
             <div className="text-center">
               <iframe

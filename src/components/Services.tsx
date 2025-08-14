@@ -37,7 +37,7 @@ const Services = () => {
     {
       icon: Megaphone,
       title: "Conversion  Focus Package -R24,999/month ",
-      description: ".",
+      description: "",
       features: [
         "10 Engaging Organic Reels",
         "4 High-Impact Video Ads (ad-optimized)",
@@ -167,7 +167,7 @@ const Services = () => {
                     {service.price}
                   </div>
                   <a
-                    href="#contact"
+                    href="#form"
                     className="w-full bg-light-green hover:bg-dark-green text-white py-4 px-6 rounded-2xl font-semibold transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl"
                   >
                     Get Started
@@ -188,8 +188,8 @@ const Services = () => {
               approach that perfectly fits your specific needs and objectives.
             </p>
             <a
-              href="#contact"
-              className="bg-white text-light-green hover:bg-gray-50 px-8 py-4 rounded-2xl font-semibold transition-all duration-300 transform hover:scale-105 shadow-lg"
+              href="#form"
+              className="block w-full bg-white text-light-green hover:bg-gray-50 px-8 py-4 rounded-2xl font-semibold transition-all duration-300 transform hover:scale-105 shadow-lg"
             >
               Schedule a Consultation
             </a>

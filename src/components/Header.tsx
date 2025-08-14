@@ -76,7 +76,7 @@ const Header: React.FC<HeaderProps> = ({ onLoginClick }) => {
               <span>Client Login</span>
             </button> */}
             <a
-              href="#contact"
+              href="#form"
               className="bg-light-green hover:bg-dark-green text-white px-6 py-3 rounded-full font-medium transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl"
             >
               Get Started
@@ -119,8 +119,8 @@ const Header: React.FC<HeaderProps> = ({ onLoginClick }) => {
                 }}
               ></button>
               <a
-                href="#contact"
-                className="w-full bg-light-green hover:bg-dark-green text-white px-6 py-3 rounded-full font-medium transition-all duration-300 mt-4"
+                href="#form"
+                className="block w-full bg-light-green hover:bg-dark-green text-white px-6 py-3 rounded-full font-medium transition-all duration-300 text-center"
               >
                 Get Started
               </a>
