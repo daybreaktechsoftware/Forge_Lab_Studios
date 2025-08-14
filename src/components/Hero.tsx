@@ -29,7 +29,7 @@ const Hero = () => {
         {/* Buttons */}
         <div className="flex flex-col sm:flex-row gap-6 sm:gap-9 justify-center items-center animate-slide-up">
           <a
-            href="#contact"
+            href="#form"
             className="group bg-light-green hover:bg-dark-green text-white px-8 sm:px-14 py-4 sm:py-6 rounded-full font-semibold text-lg sm:text-3xl transition-all duration-500 transform hover:scale-105 shadow-2xl hover:shadow-light-green/25 flex items-center space-x-3 sm:space-x-4"
           >
             <span>FREE Ad</span>
