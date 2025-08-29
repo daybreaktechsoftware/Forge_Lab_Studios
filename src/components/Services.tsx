@@ -45,7 +45,6 @@ const Services = () => {
         "Full Social Media Management (Instagram, Facebook, TikTok)",
         "4 Targeted Meta Ad Campaigns (cold, warm & retargeting)",
         "Weekly Performance Reports & Continuous Ad Optimisation",
-        "High-Converting Lead-Focused Website (valued at R20,000)",
       ],
       price: "",
       popular: true,
@@ -55,7 +54,7 @@ const Services = () => {
         price: "R67,999 once-off (Save R7,000)",
         details: [
           "All fresh content will be uploaded and maintained on your new website for 3 months at no extra cost.",
-          "R67,999 once-off (Save R7,000)",
+          "R67,999 once-off (Save R7,000)","High-Converting Lead-Focused Website (valued at R20,000)",
         ],
       },
       valueDeal: {
