@@ -64,6 +64,36 @@ const Services = () => {
         notes: "",
       },
     },
+     {
+      icon: Megaphone,
+      title: "WEBSITE + startup marketing -R29,999/month ",
+      description: "",
+      features: [
+        "10 Engaging Organic Reels",
+        "4 High-Impact Video Ads (ad-optimized)",
+        "20 Professionally Branded Stills",
+        "Full Social Media Management (Instagram, Facebook, TikTok)",
+        "4 Targeted Meta Ad Campaigns (cold, warm & retargeting)",
+        "Weekly Performance Reports & Continuous Ad Optimisation",
+        "All fresh content will be uploaded and maintained on your new website for 3 months at no extra cost",
+      ],
+      price: "",
+      popular: true,
+
+      bonusOffer: {
+        name: "",
+        price: "",
+        details: [
+          "",
+        ],
+      },
+      valueDeal: {
+        name: "",
+        value: "",
+        included: false,
+        notes: "",
+      },
+    },
   ];
 
   return (
