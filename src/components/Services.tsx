@@ -76,6 +76,7 @@ const Services = () => {
         "4 Targeted Meta Ad Campaigns (cold, warm & retargeting)",
         "Weekly Performance Reports & Continuous Ad Optimisation",
         "All fresh content will be uploaded and maintained on your new website for 3 months at no extra cost",
+        "High-Converting Lead-Focused Website (valued at R20,000)",
       ],
       price: "",
       popular: true,
