@@ -84,7 +84,6 @@ const Services = () => {
         name: "",
         price: "",
         details: [
-          "",
         ],
       },
       valueDeal: {
